@@ -33,35 +33,4 @@ Output: 2
 Explanation: 3 + 8 = 11, 1 + 1 = 2
 ```
 
-## Technologies Used
-- Java
-- VS Code
-- Git
-- GitHub
 
-## How to Run
-
-1. Install Java JDK.
-2. Clone this repository.
-3. Open the project folder in VS Code.
-4. Compile and run a program:
-
-```bash
-javac fizzbuzz.java
-java fizzbuzz
-```
-
-Replace the filename and class name with the appropriate ones for the other programs.
-
-## Learning Goals
-- Improve Java programming skills.
-- Understand loops and conditional statements.
-- Practice bitwise operators.
-- Improve logical thinking and problem-solving.
-
-## Author
-Amith
-
----
-
-More Java programming solutions will be added as I continue learning.
